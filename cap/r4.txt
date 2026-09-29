@@ -1,0 +1,1 @@
+Or walk the map in 3D with WASD, and zoom into any state

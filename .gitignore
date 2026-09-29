@@ -1,1 +1,5 @@
 seg/
+seg2/
+rec/*.webm
+rec/*.png
+rec/node_modules/
